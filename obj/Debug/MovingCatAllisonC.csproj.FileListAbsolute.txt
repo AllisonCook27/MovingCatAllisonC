@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\MovingCatAllisonC\MovingCatAllisonC\bin\Debug\MovingCatAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\MovingCatAllisonC\MovingCatAllisonC\bin\Debug\MovingCatAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\MovingCatAllisonC\MovingCatAllisonC\bin\Debug\MovingCatAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\MovingCatAllisonC\MovingCatAllisonC\obj\Debug\MovingCatAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\MovingCatAllisonC\MovingCatAllisonC\obj\Debug\MovingCatAllisonC.frmMovingCat.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\MovingCatAllisonC\MovingCatAllisonC\obj\Debug\MovingCatAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\MovingCatAllisonC\MovingCatAllisonC\obj\Debug\MovingCatAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\MovingCatAllisonC\MovingCatAllisonC\obj\Debug\MovingCatAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 1 (Problem Solving)\MovingCatAllisonC\MovingCatAllisonC\obj\Debug\MovingCatAllisonC.pdb
