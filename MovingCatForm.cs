@@ -31,17 +31,20 @@ namespace MovingCatAllisonC
 
         private void mniExit_Click(object sender, EventArgs e)
         {
-
+            //When Exit clicked close program
+            this.Close();
         }
 
         private void mniCat1_Click(object sender, EventArgs e)
         {
-
+            //when Cat1 clicked change image to cat 1
+            this.picCat.Image = Properties.Resources.cat1;
         }
 
         private void mniCat2_Click(object sender, EventArgs e)
         {
-
+            //when Cat2 clicked change image to cat 2
+            this.picCat.Image = Properties.Resources.cat2;
         }
     }
 }

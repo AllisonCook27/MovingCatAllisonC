@@ -41,9 +41,11 @@
             // 
             // picCat
             // 
+            this.picCat.Image = global::MovingCatAllisonC.Properties.Resources.cat2;
             this.picCat.Location = new System.Drawing.Point(65, 58);
             this.picCat.Name = "picCat";
             this.picCat.Size = new System.Drawing.Size(136, 149);
+            this.picCat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.picCat.TabIndex = 0;
             this.picCat.TabStop = false;
             // 
